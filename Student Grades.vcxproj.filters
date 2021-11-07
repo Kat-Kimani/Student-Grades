@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Students Grade.cpp">
+    <ClCompile Include="Students Grade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
